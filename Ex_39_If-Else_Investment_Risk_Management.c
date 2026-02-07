@@ -5,7 +5,7 @@ An investment advisor wants to help clients build an investment portfolio. The r
 
 Age of the Investor:
 Investors under 30 years are more likely to take risks.
-Investors between 30 and 50 are generally conservative but willing to accept some risk.
+Investors between 30 and 50 are generally conservative but willing to accept some risk. 
 Investors above 50 are risk-averse and prefer stable investments.
 Annual Income of the Investor:
 Higher income investors are more likely to invest in riskier assets.
