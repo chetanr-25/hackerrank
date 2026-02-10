@@ -3,7 +3,7 @@ You are tasked with building a simple risk management system for an investment a
 
 An investment advisor wants to help clients build an investment portfolio. The risk level of the portfolio depends on three key factors:
 
-Age of the Investor:
+Age of the Investor: 
 Investors under 30 years are more likely to take risks. 
 Investors between 30 and 50 are generally conservative but willing to accept some risk. 
 Investors above 50 are risk-averse and prefer stable investments.
