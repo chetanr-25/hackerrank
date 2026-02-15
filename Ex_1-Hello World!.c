@@ -7,7 +7,7 @@ No input is required.
 
 Constraints
 
-N/A :
+N/A : 
 
 Output Format
 
