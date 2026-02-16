@@ -16,7 +16,7 @@ Output Format
 
 You must print:
 
-"Eligible" or "Not Eligible"
+"Eligible" or "Not Eligible" 
 Sample Input 0
 
 20
