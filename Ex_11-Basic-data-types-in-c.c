@@ -12,7 +12,7 @@ scanf("format_specifier", &val)
 For example, to read a character followed by a double:
 
 char ch;
-double d;
+double d; 
 scanf("%c %lf", &ch, &d);
 For the moment, we can ignore the spacing between format specifiers.
 
